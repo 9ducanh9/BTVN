@@ -1,0 +1,10 @@
+C:\Users\lamch\source\repos\BTVN3\BTVN3\obj\Debug\BTVN3.csproj.AssemblyReference.cache
+C:\Users\lamch\source\repos\BTVN3\BTVN3\obj\Debug\BTVN3.Form1.resources
+C:\Users\lamch\source\repos\BTVN3\BTVN3\obj\Debug\BTVN3.Properties.Resources.resources
+C:\Users\lamch\source\repos\BTVN3\BTVN3\obj\Debug\BTVN3.csproj.GenerateResource.cache
+C:\Users\lamch\source\repos\BTVN3\BTVN3\obj\Debug\BTVN3.csproj.CoreCompileInputs.cache
+C:\Users\lamch\source\repos\BTVN3\BTVN3\bin\Debug\BTVN3.exe.config
+C:\Users\lamch\source\repos\BTVN3\BTVN3\bin\Debug\BTVN3.exe
+C:\Users\lamch\source\repos\BTVN3\BTVN3\bin\Debug\BTVN3.pdb
+C:\Users\lamch\source\repos\BTVN3\BTVN3\obj\Debug\BTVN3.exe
+C:\Users\lamch\source\repos\BTVN3\BTVN3\obj\Debug\BTVN3.pdb
